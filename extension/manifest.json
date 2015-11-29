@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "chrome-newtab-custom",
+  "description": "Replace New Tab",
+  "version": "0.0.1",
+  "chrome_url_overrides" : {
+    "newtab": "newtab.html"
+  }
+}
