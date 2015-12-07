@@ -3,8 +3,6 @@ custom-NewTab - Chrome Extension
 
 Chrome拡張機能で新規タブを開いたときに表示されるHTMLを変更する最小構成のテンプレート
 
-テンプレートには、googleへリダイレクトを行うmetaタグ込みのHTMLが含まれています。
-
 ## Usage
 * `extension/manifest.json`を開き、変更したい箇所を適当に変える。
 * `extension/newtab.html`の中身を適当なhtmlに置き換える。
